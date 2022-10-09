@@ -1,0 +1,22 @@
+CS 2200 Fall 2022
+Homework 2
+
+Name: Joshua Wainwright
+GT Username: jwainwright 3
+
+Problem 3
+----------
+
+The JALR function is responsible for setting the return address to the current pc, and changing the pc to the address target:
+
+PC -> RA 
+AT -> PC 
+
+However, this can be replicated in assembly using this setup
+
+lea     $ra, return
+br      target
+return:
+
+Note. This setup requires a reuturn label, which simulates the address that JALR would assign to the $ra register
+

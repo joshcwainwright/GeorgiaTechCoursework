@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecf6b06a-f054-4cb2-a50d-1b45df38d283" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Satellite.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/GeostationarySatellite.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ClassifiedSatellite.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/SatelliteDataConverter.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1pupMAn5ROQ5yXZzD7yIlmsYhQK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jcwwa\OneDrive - Georgia Institute of Technology\Spring 2021\CS 1331\Homework 3\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SatelliteDataConverter">
+    <configuration name="SatelliteDataConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SatelliteDataConverter" />
+      <module name="Homework 3" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;C:\Users\jcwwa\OneDrive - Georgia Institute of Technology\Spring 2021\CS 1331\Homework 3\satellite_data&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arg" type="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="SatelliteDataConverter" />
+      <module name="Homework 3" />
+      <option name="PROGRAM_PARAMETERS" value="satellite_data" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SatelliteDataConverter" />
+      <item itemvalue="Java Scratch.arg" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SatelliteDataConverter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecf6b06a-f054-4cb2-a50d-1b45df38d283" name="Default Changelist" comment="" />
+      <created>1616042781154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616042781154</updated>
+    </task>
+    <servers />
+  </component>
+</project>
